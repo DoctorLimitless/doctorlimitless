@@ -1,5 +1,5 @@
-<h1 align="center">What's up! Doctor Limitless</h1>
-<h3 align="center">An ADHD guy looking for challenges</h3>
+<h1 align="center">Doctor Limitless</h1>
+<h3 align="center">An ADHD guy addicted to git add,commit,push</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
